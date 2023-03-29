@@ -1,0 +1,6 @@
+train: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_detection_neckband/train/images
+val: /Users/aneesaro/PycharmProjects/Ineuron projects/yolo_custom_detection_neckband/val/images
+
+nc: 1
+
+names: ["neckband"]
